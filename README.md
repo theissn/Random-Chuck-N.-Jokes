@@ -1,6 +1,6 @@
 # Very Simply Chuck Norris Joke viewer.
 
-Big probs to hucknorris.io!
+Big probs to chucknorris.io!
 
 # Todo
 Stuff I guess..
